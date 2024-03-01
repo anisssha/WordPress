@@ -8,6 +8,6 @@ while(have_posts()){
     <hr>
     <?php
     }
+    get_footer();
 ?>
 
-<p>this is the footer area.</p>
